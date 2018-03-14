@@ -1,0 +1,7 @@
+连接模拟器连接
+adb.exe connect 127.0.0.1:62001 
+
+开启app
+react-native start
+
+react-native run-android
