@@ -5,3 +5,6 @@ adb.exe connect 127.0.0.1:62001
 react-native start
 
 react-native run-android
+
+
+github É¾³ý yarn.lock
